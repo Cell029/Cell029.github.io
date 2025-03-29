@@ -1,0 +1,17 @@
+{
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "newFileFolderPath": "myBlog/source/_posts"
+}
