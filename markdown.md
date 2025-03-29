@@ -1,4 +1,3 @@
-
 # 原理
 将特定的符号与HTML标签的对应关系实现转换.
 ```
@@ -48,11 +47,15 @@
 ```
 
 # 代码块
-![](file-20250329162504.png) register(@RequestBody User user) {
+![](assets/images/markdown/file-20250329162504.png) 
+
+```java
+register(@RequestBody User user) {
         userService.add(user);
         return Result.success();
     }
-```  
+```
+
 `equals()`
 # 引用文本
 `>`:
@@ -65,7 +68,7 @@
 > userService.add(user);
 > return Result.success();
 > }
-> ```
+> 
 
 # 超链接
 `[文字](链接)`：
@@ -78,13 +81,30 @@
 [b]: https://firefox.com
 [c]: https://google.com
 
-![](file-20250329162433![](file-20250329162433.png)s/markdown/file-20250329162425![](file-20250329162425.png)龄 |
-|:--![](file-20250329162418.png)# 内嵌html
+![](assets/images/markdown/file-20250329162425.png)
+
+# 表格
+
+```html
+|name|age|
+|:-:|:-:|
+|小明|18|
+|小红|18|
+```
+
+|name|age|
+|:-:|:-:|
+|小明|18|
+|小红|18|
+# 内嵌html
+
 **文本修饰类**
-```
+
+<p style="color: blue;">这段文字将显示为蓝色。</p>
+
+```html
 <p style="color: blue;">这段文字将显示为蓝色。</p>
 ```
-<p style="color: blue;">这段文字将显示为蓝色。</p>
 
 `<sup>`上标：ABC<sup>123</sup>
 
@@ -97,6 +117,4 @@
 `<ins>`插入：<ins>ABC</ins>
 
 `<ruby>`和`<rt>`文字注音：<ruby>饕餮 <rt>tāo tiè</rt></ruby>
-
-
 
