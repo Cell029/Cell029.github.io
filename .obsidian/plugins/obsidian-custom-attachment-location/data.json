@@ -1,8 +1,8 @@
 {
-  "attachmentFolderPath": "assets/images/${filename}",
-  "attachmentRenameMode": "All",
+  "attachmentFolderPath": "./assets/images/${filename}",
+  "attachmentRenameMode": "Only pasted images",
   "duplicateNameSeparator": " ",
-  "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmss}",
+  "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmssSSS}",
   "jpegQuality": 0.8,
   "shouldConvertPastedImagesToJpeg": false,
   "shouldDeleteOrphanAttachments": false,

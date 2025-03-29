@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce15c4e468767094",
+        "id": "105777ae762bd0d0",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e40e86f0f93645",
+            "id": "28dfe15898b7de70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-29.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-29"
+              "title": "git"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "markdown 的反向链接列表"
+              "title": "git 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "markdown 的出链列表"
+              "title": "git 的出链列表"
             }
           },
           {
@@ -142,17 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-03-29.md",
+                "file": "git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-29 的大纲"
+              "title": "git 的大纲"
+            }
+          },
+          {
+            "id": "58c3f5e98d69db2c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,32 +179,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4e39a4b1794f606",
+  "active": "28dfe15898b7de70",
   "lastOpenFiles": [
-    "assets/images/2025-03-29/file-20250329221909.png",
-    "assets/images/2025-03-29/file-20250329221724.png",
-    "2025-03-29.md",
-    "assets/images/2025-03-29",
-    "git.md",
     "markdown.md",
+    "git.md",
+    "assets/images/git/file-20250329161938.png",
+    "2025-03-29.md",
+    "assets/images/2025-03-29/file-20250329223417664.png",
+    "assets/images/git/file-20250329161811.png",
+    "assets/images/git/file-20250329161902.png",
+    "assets/images/2025-03-29",
+    "assets/2025-03-29/file-20250329223333075.png",
+    "assets/2025-03-29/file-20250329223121462.png",
+    "assets/2025-03-29",
+    "assets/images/2025-03-29/file-20250329222956.png",
+    "assets/images/2025-03-29/file-20250329222916.png",
+    "package-lock.json",
+    "package.json",
+    "assets/images/2025-03-29/file-20250329222437.png",
+    "assets/images/2025-03-29/file-20250329221909.png",
     "assets/images/git",
-    "assets/images/git/file-20250329220221.png",
-    "assets/images/git/file-20250329162012.png",
-    "assets/images/git/file-20250329162314.png",
-    "assets/images/git/file-20250329162243.png",
-    "images/2025-03-29/file-20250329215727.png",
-    "assets/images/2025-03-29/file-20250329215926.png",
-    "assets/images/2025-03-29/file-20250329215833.png",
-    "assets/images/2025-03-29/file-20250329215806.png",
     "assets/images",
     "images/2025-03-29",
     "images",
     "新建文件夹",
     "myBlog/node_modules/path-parse/README.md",
     "myBlog/node_modules/path-parse/package.json",
-    "myBlog/node_modules/path-parse/index.js",
-    "myBlog/node_modules/path-parse/LICENSE",
-    "myBlog/node_modules/path-parse",
     "myBlog/node_modules/parseurl/README.md",
     "myBlog/node_modules/parseurl/HISTORY.md",
     "myBlog/node_modules/minimatch/README.md",
@@ -216,7 +226,6 @@
     "myBlog/node_modules/min-indent/readme.md",
     "myBlog/node_modules/strip-indent/readme.md",
     "myBlog/node_modules/is-binary-path/readme.md",
-    "assets/images/git/file-20250329173951.png",
     "未命名.canvas"
   ]
 }

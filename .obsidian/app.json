@@ -9,7 +9,7 @@
     "downscalePercent": 100
   },
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "strictLineBreaks": true,
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
