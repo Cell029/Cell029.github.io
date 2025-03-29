@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/images/${filename}",
+  "attachmentFolderPath": "assets/images/${filename}",
   "attachmentRenameMode": "All",
   "duplicateNameSeparator": " ",
   "generatedAttachmentFilename": "file-${date:YYYYMMDDHHmmss}",
